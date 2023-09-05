@@ -1,6 +1,5 @@
 # Linear_Regression_for_Cars
 
-# Linear Regression
 
 ## Overview
 
